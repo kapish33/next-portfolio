@@ -81,7 +81,7 @@ With a double degree in Computer Science (B.Sc.) and Master of Computer Applicat
       href: "https://gojoko.co.uk/",
       badges: [],
       location: "Noida",
-      title: "Full Stach Developer",
+      title: "Full Stack Developer",
       logoUrl: "/gojoko.jpeg",
       start: "Oct 2022",
       end: "May 2023",
@@ -118,7 +118,14 @@ With a double degree in Computer Science (B.Sc.) and Master of Computer Applicat
       start: "2021",
       end: "2023",
     },
-    
+    {
+      school: "Masai School ",
+      href: "https://www.masaischool.com",
+      degree: "3000+ hours of regress Coding using MERN + DSA + Soft Skills ",
+      logoUrl: "/masai.png",
+      start: "2021",
+      end: "2023",
+    },
   ],
   projects: [
     {
