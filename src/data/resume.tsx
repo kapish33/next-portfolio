@@ -84,7 +84,7 @@ With a double degree in Computer Science (B.Sc.) and Master of Computer Applicat
       title: "Full Stack Developer",
       logoUrl: "/gojoko.jpeg",
       start: "Oct 2022",
-      end: "May 2023",
+      end: "May 2024",
       description:
         "At Gojoko Technologies (Oct 2022 - May), I developed a React Native credit card application for ReevoMoney, which secured £22.5m funding. I engineered a high-performance GraphQL layer with Java OpenAPI, implemented Tailwind CSS for superior performance, and optimized UI development with Storybook. For Web In React and Next",
     },
