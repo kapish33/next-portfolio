@@ -112,7 +112,7 @@ With a double degree in Computer Science (B.Sc.) and Master of Computer Applicat
     },
     {
       school: "Maharaja Agrasen Garhwal University",
-      href: "https://uwaterloo.ca",
+      href: "https://hgu.ac.in",
       degree: "Masters's Degree of Computer Science (MCA)",
       logoUrl: "/mahajaaggresen.jpeg",
       start: "2021",
@@ -124,7 +124,7 @@ With a double degree in Computer Science (B.Sc.) and Master of Computer Applicat
       degree: "3000+ hours of regress Coding using MERN + DSA + Soft Skills ",
       logoUrl: "/masai.png",
       start: "2021",
-      end: "2023",
+      end: "2022",
     },
   ],
   projects: [
